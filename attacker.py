@@ -7,7 +7,7 @@ import operator
 import os
 import sys
 import math
-import sidechannel_info
+#import sidechannel_info
 from enum import Enum
 from cryptography import x509
 import cryptography.hazmat.backends.openssl.backend as OSSL
